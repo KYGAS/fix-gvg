@@ -1,0 +1,9 @@
+{
+    "name": "fixgvg",
+    "version": "1.0.0",
+    "author": "KYGAS",
+    "license": "ISC",
+    "description": "Allow users to choose their revive spot during GvG and prevent bugs.",
+    "servers": ["https://raw.githubusercontent.com/kygas/fix-gvg/master/"],
+    "disableAutoUpdate": false
+}
